@@ -52,6 +52,7 @@ ada pada sekelompok data dengan cara beruntun mulai dari data pertama sampai den
 dapat ditemukan[2]
 
 ![example-of-a-sequential-search](https://github.com/RifkaASwasthi/Praktikum-Struktur-Data-Assignment/assets/162097297/18c33985-bad9-4bfe-bfbe-33cb43e19888)
+
 gambar diambil dari (https://www.myassignmenthelp.net/sequential-search-algorithm)
 
 
