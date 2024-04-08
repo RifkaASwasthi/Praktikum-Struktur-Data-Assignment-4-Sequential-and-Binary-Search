@@ -4,6 +4,7 @@
 ## Dasar Teori
 Algoritma    pengurutan    atau sortingalgorithm adalah algoritma yang menyimpan suatu    list    pada    suatu    urutan    tertentu, biasanya      membesar      atau      mengecil, biasanya    digunakan    untuk    mengurutkan angka    ataupun    huruf. [1] tujuan dari pengurutan data adalah agar Data yang  diurutkan  mudah  dicari,  mudah diperiksa,  jika  terjadi  kesalahan,  mudah diperbaiki.  Data  yang  diurutkan  dengan  baik  juga  mudah  dihapus  jikaterkadang  data  tidak  lagi  diperlukan.  Selain  itu, dengan memilah data, kita akan lebih mudahmemasukkan data atau lakukan penggabungan.
 
+
 Ada berbagai macam algoritma pengurutan. Namun dalam laporan kali ini akan dibahas insertion sort dan bubble sort, yang menjadi domain adalah mencoba menganalisis kecepatan waktu dari algortima bubble sort dan insertion sort, dengan sekali inputan data, dari kedua algoritma ini yang manakah lebih cepat dan efisien dalam menyelesaikan pengurutan dengan interval data tersebut.Biasanya  pengurutan  terbagi  menjadi  dua yaitu Ascending pengurutan       dari karakter/angka    kecil    ke    karakter/angka besar    dan Descending(pengurutan    dari karakter/angka    besar    ke    karakter/angka kecil).
 1. Insertion Sort
 
